@@ -1,0 +1,8 @@
+.btn-blue {
+	background-color: #949CDF;
+	color: white;
+	padding: 15px 20px;
+	border-radius: 4px;
+	font-family: lato, serif;
+	transition: color 0.3s ease;
+}
